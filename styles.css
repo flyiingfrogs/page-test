@@ -35,3 +35,9 @@ a {
     color: white;
     font-weight: bold;
 }
+
+p a {
+    display: block;
+    color: white;
+    font-weight: bold;
+}
